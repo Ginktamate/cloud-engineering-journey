@@ -16,7 +16,7 @@ Level up my skillsets and go deep into Cloud / DevOps Engineering. Approaching e
 
 ## Current Focus
 - Linux Fundamentals
-- AZ-900 Certification
+- AZ-900 Certification 👉 [link to notes](https://github.com/Ginktamate/cloud-engineering-journey/blob/eb7ad2d56f1752426a1fbf36a45415fa32db864a/az900/README_900.md#notes)
 
 ### Technical domains to build a strong foundation with
 - Linux Fundamentals
